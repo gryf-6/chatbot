@@ -1,0 +1,5 @@
+D:\chatbot-project\obj\Debug\net5.0\chatbot-project.csproj.AssemblyReference.cache
+D:\chatbot-project\obj\Debug\net5.0\chatbot-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\chatbot-project\obj\Debug\net5.0\chatbot-project.AssemblyInfoInputs.cache
+D:\chatbot-project\obj\Debug\net5.0\chatbot-project.AssemblyInfo.cs
+D:\chatbot-project\obj\Debug\net5.0\chatbot-project.csproj.CoreCompileInputs.cache

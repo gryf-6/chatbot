@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace chatbot_project
 {
@@ -13,10 +14,15 @@ namespace chatbot_project
             
             while (true)
             {
-            string choice = console.writeline();
-            choice = choice.tolower();
+            string choice = Console.ReadLine();
+            choice = choice.ToLower();
 
-            switch (choice)
+                switch (choice)
+                {  
+                    case "1":
+                        Console.WriteLine("hgasdasd");
+                        break;
+                }
             }
         }
         

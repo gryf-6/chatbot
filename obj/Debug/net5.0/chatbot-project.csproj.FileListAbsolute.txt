@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 D:\chatbot-project\obj\Debug\net5.0\chatbot-project.csproj.AssemblyReference.cache
 D:\chatbot-project\obj\Debug\net5.0\chatbot-project.GeneratedMSBuildEditorConfig.editorconfig
 D:\chatbot-project\obj\Debug\net5.0\chatbot-project.AssemblyInfoInputs.cache
 D:\chatbot-project\obj\Debug\net5.0\chatbot-project.AssemblyInfo.cs
 D:\chatbot-project\obj\Debug\net5.0\chatbot-project.csproj.CoreCompileInputs.cache
+=======
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.exe
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.deps.json
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.runtimeconfig.json
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.runtimeconfig.dev.json
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.dll
+C:\Users\georg\Desktop\adams shit\chatbot\bin\Debug\net5.0\chatbot-project.pdb
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.AssemblyInfo.cs
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.sourcelink.json
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.dll
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\refint\chatbot-project.dll
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.pdb
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\chatbot-project.genruntimeconfig.cache
+C:\Users\georg\Desktop\adams shit\chatbot\obj\Debug\net5.0\ref\chatbot-project.dll
+>>>>>>> 13b848b1982e809d9da2edca97b5006cbf729160

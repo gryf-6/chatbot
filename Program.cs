@@ -9,7 +9,7 @@ namespace chatbot_project
         {
             Console.WriteLine("welcome to legend park chatbot how may i help you today");
             Console.WriteLine("our most frequently asked questions");
-            console.WriteLine("")
+            Console.WriteLine("");
             Console.WriteLine("1) rides and attractions");
             Console.WriteLine("2) refreshments info");
             
@@ -21,29 +21,35 @@ namespace chatbot_project
                 switch (choice)
                 {  
                     case "1":
-                        Console.WriteLine("14+ rides");
-                        console.WriteLine("kids rides");
+                        Console.WriteLine("14+ rides:");
+                        Console.WriteLine("space mountain");
+                        Console.WriteLine("pirates of the caribean");
+                        Console.Write("haunted mansion");
+                        Console.WriteLine("");
+                        Console.WriteLine("kids rides");
+                        Console.WriteLine("lemon twist");
+                        Console.WriteLine("busy bees");
+                        Console.WriteLine("amazing flying elephants");
+                        break;
+
+                        case "2":
+                            Console.WriteLine("food options");
+                            Console.WriteLine("allegies");
+                        break;
+                        case "food options":
+                        Console.WriteLine("veggie options:");
+                        Console.WriteLine("veggie burger");
+                        Console.WriteLine("creeamy vegan pantry pasta");
+                        Console.WriteLine("speedy lentil coconut curry");
+                        Console.WriteLine("teriyaki tofu");
+                        Console.WriteLine("");
+                        Console.WriteLine("allergies");
                         break;
                 }
             }
 
+                
 
-
-
-             while (true)
-            {
-            string choice = Console.ReadLine();
-            choice = choice.ToLower();
-
-                switch (choice)
-                {  
-                    case "14+ rides":
-                        Console.WriteLine("space mountains");
-                        console.WriteLine("pirates of the carribaen");
-                        console.WriteLine("haunted mansion")
-                        break;
-                }
-            }
 
 
         }

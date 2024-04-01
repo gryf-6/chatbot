@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LB1jT0dhlqULb3hIQIcLSdJRMx0USd/iTk3bSiN7sVJkR6jvrm/QO41s2VBFHlvwd+fxDGXni1muUXJeJ7Rqlw==",
+  "dgSpecHash": "cn1CtrzxPb+Lw91W1ybSaZ1SDMOZKmt8dB7eP1zn/nAM5XgPc06KgccGG6kJOa+1A9kCDedb9Cd3LCuZfvEomA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\chatbot-project.csproj",
+  "projectFilePath": "D:\\chatbot-project\\chatbot-project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

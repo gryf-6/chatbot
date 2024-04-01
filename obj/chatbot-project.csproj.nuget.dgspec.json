@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\chatbot-project.csproj": {}
+    "D:\\chatbot-project\\chatbot-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\chatbot-project.csproj": {
+    "D:\\chatbot-project\\chatbot-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\chatbot-project.csproj",
+        "projectUniqueName": "D:\\chatbot-project\\chatbot-project.csproj",
         "projectName": "chatbot-project",
-        "projectPath": "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\chatbot-project.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georg\\Desktop\\adams shit\\chatbot\\obj\\",
+        "projectPath": "D:\\chatbot-project\\chatbot-project.csproj",
+        "packagesPath": "C:\\Users\\adama\\.nuget\\packages\\",
+        "outputPath": "D:\\chatbot-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\adama\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

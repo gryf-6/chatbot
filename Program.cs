@@ -43,7 +43,8 @@ namespace chatbot_project
                         Console.WriteLine("speedy lentil coconut curry");
                         Console.WriteLine("teriyaki tofu");
                         Console.WriteLine("");
-                        Console.WriteLine("allergies");
+                        Console.WriteLine("allergies:");
+                        Console.WriteLine("");
                         break;
                 }
             }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Transactions;
 
 namespace chatbot_project
 {
@@ -24,7 +25,7 @@ namespace chatbot_project
                         Console.WriteLine("14+ rides:");
                         Console.WriteLine("space mountain");
                         Console.WriteLine("pirates of the caribean");
-                        Console.Write("haunted mansion");
+                        Console.WriteLine("haunted mansion");
                         Console.WriteLine("");
                         Console.WriteLine("kids rides");
                         Console.WriteLine("lemon twist");
@@ -34,7 +35,7 @@ namespace chatbot_project
 
                         case "2":
                             Console.WriteLine("food options");
-                            Console.WriteLine("allegies");
+                            Console.WriteLine("allegies to consider when visiting");
                         break;
                         case "food options":
                         Console.WriteLine("veggie options:");
@@ -42,9 +43,13 @@ namespace chatbot_project
                         Console.WriteLine("creeamy vegan pantry pasta");
                         Console.WriteLine("speedy lentil coconut curry");
                         Console.WriteLine("teriyaki tofu");
-                        Console.WriteLine("");
+                        break;
+                        case "allegies":
                         Console.WriteLine("allergies:");
-                        Console.WriteLine("");
+                        Console.WriteLine("peanuts");
+                        Console.WriteLine("gluten");
+                        break;
+                        case "":
                         break;
                 }
             }

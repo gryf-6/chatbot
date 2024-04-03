@@ -37,6 +37,7 @@ namespace chatbot_project
                             Console.WriteLine("food options");
                             Console.WriteLine("allegies to consider when visiting");
                         break;
+                        
                         case "food options":
                         Console.WriteLine("veggie options:");
                         Console.WriteLine("veggie burger");
